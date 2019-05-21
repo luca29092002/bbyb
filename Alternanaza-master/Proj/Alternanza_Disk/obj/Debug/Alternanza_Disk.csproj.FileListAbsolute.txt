@@ -1,0 +1,107 @@
+C:\Users\domen\source\repos\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe.config
+C:\Users\domen\source\repos\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe
+C:\Users\domen\source\repos\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.pdb
+C:\Users\domen\source\repos\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csprojAssemblyReference.cache
+C:\Users\domen\source\repos\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form1.resources
+C:\Users\domen\source\repos\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.Properties.Resources.resources
+C:\Users\domen\source\repos\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.GenerateResource.cache
+C:\Users\domen\source\repos\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.CoreCompileInputs.cache
+C:\Users\domen\source\repos\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.exe
+C:\Users\domen\source\repos\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.pdb
+C:\Users\manci\Desktop\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csprojAssemblyReference.cache
+C:\Users\manci\Desktop\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.exe
+C:\Users\manci\Desktop\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.pdb
+C:\Users\manci\Desktop\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe.config
+C:\Users\manci\Desktop\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe
+C:\Users\manci\Desktop\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.pdb
+C:\Users\manci\Desktop\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form1.resources
+C:\Users\manci\Desktop\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.Properties.Resources.resources
+C:\Users\manci\Desktop\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.GenerateResource.cache
+C:\Users\manci\Desktop\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.CoreCompileInputs.cache
+C:\Users\3BIprestiado\Desktop\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe.config
+C:\Users\3BIprestiado\Desktop\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe
+C:\Users\3BIprestiado\Desktop\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.pdb
+C:\Users\3BIprestiado\Desktop\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csprojAssemblyReference.cache
+C:\Users\3BIprestiado\Desktop\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form1.resources
+C:\Users\3BIprestiado\Desktop\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.Properties.Resources.resources
+C:\Users\3BIprestiado\Desktop\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.GenerateResource.cache
+C:\Users\3BIprestiado\Desktop\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.CoreCompileInputs.cache
+C:\Users\3BIprestiado\Desktop\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.exe
+C:\Users\3BIprestiado\Desktop\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.pdb
+C:\Users\3BIbeltracchinian\Desktop\Alternanza-master\Alternanza-master\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csprojAssemblyReference.cache
+C:\Users\3BIbeltracchinian\Desktop\Alternanza-master\Alternanza-master\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.exe
+C:\Users\3BIbeltracchinian\Desktop\Alternanza-master\Alternanza-master\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.pdb
+C:\Users\3BIbeltracchinian\Desktop\Alternanza-master\Alternanza-master\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe.config
+C:\Users\3BIbeltracchinian\Desktop\Alternanza-master\Alternanza-master\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe
+C:\Users\3BIbeltracchinian\Desktop\Alternanza-master\Alternanza-master\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\bin\Debug\Alternanza_Disk.pdb
+C:\Users\3BIbeltracchinian\Desktop\Alternanza-master\Alternanza-master\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form1.resources
+C:\Users\3BIbeltracchinian\Desktop\Alternanza-master\Alternanza-master\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.Properties.Resources.resources
+C:\Users\3BIbeltracchinian\Desktop\Alternanza-master\Alternanza-master\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.GenerateResource.cache
+C:\Users\3BIbeltracchinian\Desktop\Alternanza-master\Alternanza-master\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.CoreCompileInputs.cache
+C:\Users\3BIbeltracchinian\Desktop\Alternanza-master\Alternanza-master\alternanza-master\alternanza-master\Alternanza\alternanzadisc-master\Alternanza_Disk\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form2.resources
+C:\Users\3BIprestiado\Desktop\Alternanza-master (4)\Alternanza-master\Alternanza_Disk\obj\Debug\Alternanza_Disk.csprojAssemblyReference.cache
+C:\Users\3BIprestiado\Desktop\Alternanza-master (4)\Alternanza-master\Alternanza_Disk\obj\Debug\Alternanza_Disk.exe
+C:\Users\3BIprestiado\Desktop\Alternanza-master (4)\Alternanza-master\Alternanza_Disk\obj\Debug\Alternanza_Disk.pdb
+C:\Users\3BIprestiado\Desktop\Alternanza-master (4)\Alternanza-master\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form1.resources
+C:\Users\3BIprestiado\Desktop\Alternanza-master (4)\Alternanza-master\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form2.resources
+C:\Users\3BIprestiado\Desktop\Alternanza-master (4)\Alternanza-master\Alternanza_Disk\obj\Debug\Alternanza_Disk.Properties.Resources.resources
+C:\Users\3BIprestiado\Desktop\Alternanza-master (4)\Alternanza-master\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.GenerateResource.cache
+C:\Users\3BIprestiado\Desktop\Alternanza-master (4)\Alternanza-master\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.CoreCompileInputs.cache
+C:\Users\3BIprestiado\Desktop\Alternanza-master (4)\Alternanza-master\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe.config
+C:\Users\3BIprestiado\Desktop\Alternanza-master (4)\Alternanza-master\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe
+C:\Users\3BIprestiado\Desktop\Alternanza-master (4)\Alternanza-master\Alternanza_Disk\bin\Debug\Alternanza_Disk.pdb
+C:\Users\domen\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.csprojAssemblyReference.cache
+C:\Users\domen\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form1.resources
+C:\Users\domen\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form2.resources
+C:\Users\domen\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.Properties.Resources.resources
+C:\Users\domen\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.GenerateResource.cache
+C:\Users\domen\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.CoreCompileInputs.cache
+C:\Users\domen\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.exe
+C:\Users\domen\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.pdb
+C:\Users\domen\Desktop\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe.config
+C:\Users\domen\Desktop\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe
+C:\Users\domen\Desktop\Alternanza_Disk\bin\Debug\Alternanza_Disk.pdb
+E:\beltracchini (1)\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe.config
+E:\beltracchini (1)\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe
+E:\beltracchini (1)\Alternanza_Disk\bin\Debug\Alternanza_Disk.pdb
+E:\beltracchini (1)\Alternanza_Disk\obj\Debug\Alternanza_Disk.csprojAssemblyReference.cache
+E:\beltracchini (1)\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form1.resources
+E:\beltracchini (1)\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form2.resources
+E:\beltracchini (1)\Alternanza_Disk\obj\Debug\Alternanza_Disk.Properties.Resources.resources
+E:\beltracchini (1)\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.GenerateResource.cache
+E:\beltracchini (1)\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.CoreCompileInputs.cache
+E:\beltracchini (1)\Alternanza_Disk\obj\Debug\Alternanza_Disk.exe
+E:\beltracchini (1)\Alternanza_Disk\obj\Debug\Alternanza_Disk.pdb
+C:\Users\manci\Desktop\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe.config
+C:\Users\manci\Desktop\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe
+C:\Users\manci\Desktop\Alternanza_Disk\bin\Debug\Alternanza_Disk.pdb
+C:\Users\manci\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.csprojAssemblyReference.cache
+C:\Users\manci\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form1.resources
+C:\Users\manci\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form2.resources
+C:\Users\manci\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.Properties.Resources.resources
+C:\Users\manci\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.GenerateResource.cache
+C:\Users\manci\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.CoreCompileInputs.cache
+C:\Users\manci\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.exe
+C:\Users\manci\Desktop\Alternanza_Disk\obj\Debug\Alternanza_Disk.pdb
+C:\Users\3BIbeltracchinian\Desktop\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.csprojAssemblyReference.cache
+C:\Users\3BIbeltracchinian\Desktop\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.exe
+C:\Users\3BIbeltracchinian\Desktop\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.pdb
+C:\Users\3BIbeltracchinian\Desktop\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form1.resources
+C:\Users\3BIbeltracchinian\Desktop\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form2.resources
+C:\Users\3BIbeltracchinian\Desktop\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.Properties.Resources.resources
+C:\Users\3BIbeltracchinian\Desktop\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.GenerateResource.cache
+C:\Users\3BIbeltracchinian\Desktop\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.CoreCompileInputs.cache
+C:\Users\3BIbeltracchinian\Desktop\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe.config
+C:\Users\3BIbeltracchinian\Desktop\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe
+C:\Users\3BIbeltracchinian\Desktop\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\bin\Debug\Alternanza_Disk.pdb
+G:\beltra\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe.config
+G:\beltra\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\bin\Debug\Alternanza_Disk.exe
+G:\beltra\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\bin\Debug\Alternanza_Disk.pdb
+G:\beltra\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.csprojAssemblyReference.cache
+G:\beltra\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form1.resources
+G:\beltra\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.Form2.resources
+G:\beltra\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.Properties.Resources.resources
+G:\beltra\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.GenerateResource.cache
+G:\beltra\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.csproj.CoreCompileInputs.cache
+G:\beltra\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.exe
+G:\beltra\Alternanaza-master\Alternanaza-master\Proj\Alternanza_Disk\obj\Debug\Alternanza_Disk.pdb
